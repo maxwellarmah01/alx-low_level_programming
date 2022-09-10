@@ -15,7 +15,7 @@ int main(void)
 	int a = 0;
 	int b;
 	int com = 44;
-	
+
 	while (a <= 99)
 	{
 		b = a + 1;
