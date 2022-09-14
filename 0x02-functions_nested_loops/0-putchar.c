@@ -12,23 +12,23 @@
 int main(void)
 {
 
-	0-putchar('_');
+	_putchar('_');
 
-	0-putchar('p');
+	_putchar('p');
 
-	0-putchar('u');
+	_putchar('u');
 
-	0-putchar('t');
+	_putchar('t');
 
-	0-putchar('c');
+	_putchar('c');
 
-	0-putchar('h');
+	_putchar('h');
 
-	0-putchar('a');
+	_putchar('a');
 
-	0-putchar('r');
+	_putchar('r');
 
-	0-putchar('\n');
+	_putchar('\n');
 
 	return (0);
 }
