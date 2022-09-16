@@ -21,3 +21,7 @@ File 8-print_square.c is a function that prints a square, followed by a new line
 File 9-fizz_buzz.c is a program that prints the numbers from 1 to 100, followed by a new line, but for multiples of three prints Fizz instead of the number and for the multiples of five prints Buzz.
 
 File 10-print_triangle.c is a function that prints a triangle, followed by a new line.
+
+File 100-prime_factor.c is a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+
+File 101-print_number.c is a function that prints an integer using only _putchar().
