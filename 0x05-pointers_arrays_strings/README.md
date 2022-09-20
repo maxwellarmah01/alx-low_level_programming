@@ -17,6 +17,7 @@
 | `8-print_array.c` | `void print_array(int *a, int n);`      |
 | `9-strcpy.c`      | `char *_strcpy(char *dest, char *src);` |
 | `100-atoi.c`      | `int _atoi(char *s);`                   |
+| `101-keygen.c`    |  No prototype                           |
 
 ## Tasks :page_with_curl:
 
