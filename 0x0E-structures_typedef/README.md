@@ -1,4 +1,4 @@
-# 0x03. C - Structures, typedef
+# 0x0E. C - Structures, typedef
 
 | Filename | Description |
 | -------- | ----------- |
